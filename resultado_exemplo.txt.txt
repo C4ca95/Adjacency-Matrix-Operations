@@ -1,0 +1,2 @@
+Nome da instância: exemplo.txt
+Dimensão da matriz: 7 linhas x 7 colunas
